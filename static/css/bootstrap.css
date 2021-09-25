@@ -3966,6 +3966,7 @@ tbody.collapse.show {
 
 .navbar-brand {
   display: inline-block;
+  font-family: 'Hey Gotcha!', cursive;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
